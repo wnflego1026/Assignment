@@ -1,5 +1,9 @@
 streamlit
 pandas
 numpy
-TTS
-st_audiorec
+coqui-tts
+streamlit-audiorec
+ollama
+openai
+fastapi
+uvicorn
