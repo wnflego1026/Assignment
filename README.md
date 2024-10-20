@@ -1,17 +1,15 @@
-Clone the repo
-```
-git clone https://github.com/venetanji/pfad
-```
+Install requirement:
 
-Update the repo
-```
-git pull
-```
-
-Install requirements
-```
-cd pfad/week1/src
 pip install -r requirements.txt
-```
 
+Instructions
 
+Prepare an image containing a person and note its path.
+
+Run the script in the command line, providing the input image.
+
+Enter the Prompt
+
+The script will process the image and display three images: the original image, the OpenPose detection result, and the newly generated image.
+
+The generated images will be saved in the same directory as the input image.
